@@ -1,0 +1,8 @@
+galaxy_info:
+  author: raghav
+  description: Kubernetes Cluster Set-Up for Ubuntu 
+  min_ansible_version: 2.9
+  platforms:
+   - name: Debian
+      - Ubuntu 18.04
+  
